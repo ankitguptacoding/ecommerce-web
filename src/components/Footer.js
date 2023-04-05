@@ -22,8 +22,8 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <footer className='py-3'></footer>
-      <footer className='py-3'>
+      <footer className='py-4'></footer>
+      <footer className='py-4'>
         <div className='container-xxl'>
           <div className="row">
             <div className="col-12">
